@@ -21,9 +21,9 @@
         * react-quill
         * react-scripts
         * web-vitals
-serverbuild.jar     - Zhotovený jar executable serveru
-docker-compose.yml  - konfigurace PosgreSQL docker containeru
+* serverbuild.jar     - Zhotovený jar executable serveru
+* docker-compose.yml  - konfigurace PosgreSQL docker containeru
 
-Server:           localhost:8080
-Postgres port:    localhost:5432
-OpenAPI endpoint: localhost:8080/swagger-ui/index.html
+* Server:           localhost:8080
+* Postgres port:    localhost:5432
+* OpenAPI endpoint: localhost:8080/swagger-ui/index.html
